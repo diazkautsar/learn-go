@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// kemampuan untuk mengambil data dari function
+// interaksi function dalam satu scope
 
 func main() {
 	counter := 0
